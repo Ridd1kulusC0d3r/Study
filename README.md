@@ -19,8 +19,14 @@ _________________________________________________
 #### Audit
 #### Netsec
 #### Monitoring
+#### Forensic and DFIR
+
 _________________________________________________
 ## Frameworks
+### Forense:
+- NIST SP 800-86: Este é o "Guide to Integrating Forensic Techniques" do Instituto Nacional de Padrões e Tecnologia (NIST). Ele fornece diretrizes abrangentes sobre como integrar técnicas forenses em investigações.
+- Digital Investigation Framework (DIF): Uma estrutura de código aberto que fornece uma série de módulos e estratégias para facilitar a investigação forense digital.
+- Digital Forensics XML (DFXML): Um formato padronizado para representar informações forenses que pode ser usado em várias ferramentas forenses.
 _________________________________________________
 ## Networking Security
 _________________________________________________
