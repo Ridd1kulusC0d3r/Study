@@ -9,16 +9,16 @@
 ## Intro
 _________________________________________________
 ## Areas de Cyber:
-### Cloudsec
-### SOC
-### CSIRT
-### Hunting
-### Threat Intell
-### GRC
-### Offensive
-### Audit
-### Netsec
-### Monitoring
+#### Cloudsec
+#### SOC
+#### CSIRT
+#### Hunting
+#### Threat Intell
+#### GRC
+#### Offensive
+#### Audit
+#### Netsec
+#### Monitoring
 _________________________________________________
 ## Frameworks
 _________________________________________________
