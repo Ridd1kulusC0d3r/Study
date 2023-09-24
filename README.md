@@ -29,3 +29,13 @@ _________________________________________________
 ## Tools and Analysis
 _________________________________________________
 ## Atuação
+#### Assessment e avaliação de conformidade e segurança
+#### Hardenização
+#### Analise de Phishing
+#### Guias de Segurança
+#### Dissecando Framewaorks
+#### Automação
+#### Alertas
+#### Investigamdo eventos no SIEM
+#### Analise de vulnerabilidades
+#### Corrigindo as vulnerbilidades
