@@ -7,3 +7,10 @@
 * [Opsec](#opsec)
 * [Recursos OSINT](#recursos)
 ## Intro
+## Areas de Cyber:
+### Cloudsec
+### SOC
+### CSIRT
+### Hunting
+### Threat Intell
+### GRC
