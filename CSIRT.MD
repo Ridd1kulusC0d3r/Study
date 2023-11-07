@@ -46,4 +46,4 @@
 - Prática Prática:
 - Hack The Box
 - TryHackMe
-####### Este plano de estudos é uma sugestão e pode ser ajustado de acordo com suas necessidades e ritmo de aprendizado. Boa sorte em sua jornada para se tornar um especialista em CSIRT!
+###### Este plano de estudos é uma sugestão e pode ser ajustado de acordo com suas necessidades e ritmo de aprendizado. Boa sorte em sua jornada para se tornar um especialista em CSIRT!
