@@ -1,7 +1,7 @@
 # Plano de estudos
 - Aqui está um plano de estudos para ajudá-lo a se tornar um especialista em CSIRT (Computer Security Incident Response Team) nos próximos 6 meses:
 
-## Mês 1: Fundamentos de Segurança da Informação
+## Mês 1: Fundamentos de Segurança da Informação 
 ### Conceitos Básicos:
 - Introdução à Segurança da Informação
 - Princípios de Segurança de Redes
