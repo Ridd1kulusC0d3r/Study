@@ -1,5 +1,6 @@
 # Meu guia de estudos personalizado:
 
+- Listar cursos e materias páginas de estudos
 ## Sumário
 * [Intro](#intro)
 * [Contato](#contato)
